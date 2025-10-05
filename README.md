@@ -44,6 +44,7 @@ The objective was to uncover **sales trends**, **customer insights**, and **perf
 - Power Query
 - Power BI dashboards
 
+---
 
 ###  3. SQL Project *Crime Data Analysis in Cambridge*
 
@@ -55,5 +56,7 @@ By stepping into the role of data detectives, the team explored real crime datas
 - SQL querying and aggregation
 - Filtering, joining  
 
+---
+# Data Sources
 
 **All datasets used were sourced from Kaggle.**
